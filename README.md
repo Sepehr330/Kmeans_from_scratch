@@ -24,4 +24,4 @@ This repository contains a Python implementation of the K-means clustering algor
 4. **Iteration**:
    - Repeat the assignment and centroid update steps until convergence or a maximum number of iterations is reached.
   
-![figure_1](resources/figure_1.png)
+![Figure_1](resources/Figure_1.png)
